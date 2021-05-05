@@ -1,5 +1,5 @@
 # DM-exam-codes
-This is a repo for code which should help with the 7CCSMDM1 exam
+This is a repo for code which should help with the Data Mining exam
 
 ## Topics
 1. Introduction
