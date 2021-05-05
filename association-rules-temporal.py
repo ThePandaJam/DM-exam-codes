@@ -1,0 +1,1 @@
+# association rules and temporal data mining [week 9]
